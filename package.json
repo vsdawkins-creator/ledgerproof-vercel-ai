@@ -1,6 +1,6 @@
 {
   "name": "@ledgerproof/vercel-ai",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Vercel AI SDK plug-in that auto-issues EU AI Act Article 50 receipts for every model call.",
   "type": "module",
   "main": "./dist/index.cjs",
